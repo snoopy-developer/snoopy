@@ -1,5 +1,6 @@
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">![](https://visitor-badge.glitch.me/badge?page_id=feden2906.feden2906)
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![](https://visitor-badge.glitch.me/badge?page_id=feden2906.feden2906)
 
 <a href="https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D1%84%D0%B5%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE-22a5781b9/">
   <img align="left" alt="Linkdin" width="24px" src="https://github.com/feden2906/icons/blob/main/linkedin.png" />
@@ -25,6 +26,7 @@
   <img align="left" alt="Mail" width="24px" src="https://github.com/feden2906/icons/blob/main/gmail.png" />
 </a>
 
+<br />
 
 **Languages and Tools:**  
 
@@ -40,7 +42,7 @@
 
 <br />
 
-<div> <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=feden2906&show_icons=true" alt="myGitStats" > </div>
+<div> <img align="right" src="https://github-readme-stats.vercel.app/api?username=feden2906&show_icons=true" alt="myGitStats" > </div>
 
 
 <!--START_SECTION:waka-->
