@@ -31,18 +31,24 @@
 **Languages and Tools:**  
 
 <a href="#"><img height="25" title="WebStorm" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-png-transparent.png"></a>
-<a href="#"><img height="25" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
-<a href="#"><img height="25" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a>
-<a href="#"><img height="25" title="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></a>
-<a href="#"><img height="25" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a>
-<a href="#"><img height="25" title="NodeJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
-<a href="#"><img height="25" title="MongoDB" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"></a> 
-<a href="#"><img height="25" title="MySQL" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg"></a>
 
+<a href="#"><img height="25" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
+
+<a href="#"><img height="25" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a>
+
+<a href="#"><img height="25" title="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></a>
+
+<a href="#"><img height="25" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a>
+
+<a href="#"><img height="25" title="NodeJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
+
+<a href="#"><img height="25" title="MongoDB" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"></a> 
+
+<a href="#"><img height="25" title="MySQL" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg"></a>
 
 <br />
 
-<div> <img align="right" src="https://github-readme-stats.vercel.app/api?username=feden2906&show_icons=true" alt="myGitStats" > </div>
+<div> <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=feden2906&show_icons=true" alt="myGitStats" > </div>
 
 
 <!--START_SECTION:waka-->
