@@ -13,7 +13,7 @@
   <img align="left" alt="Telegram" width="24px" src="https://github.com/feden2906/icons/blob/main/telegram.png" />
 </a>
 
-<a href="https://www.facebook.com/maks.fedenko">
+<a href="https://www.facebook.com/MaksFedenko">
   <img align="left" alt="Facebook" width="24px" src="https://github.com/feden2906/icons/blob/main/facebook.png" />
 </a>
 
