@@ -30,36 +30,30 @@
 
 **Languages and Tools:**  
 
-<a href="https://github.com/feden2906/icons/blob/main/skils/WebStorm.png"><img height="25" title="WebStorm" src="https://github.com/feden2906/icons/blob/main/skils/WebStorm.png"></a>
-
+<a href="https://github.com/feden2906/icons/blob/main/skils/WebStorm.png">
+  <img height="25" title="WebStorm" src="https://github.com/feden2906/icons/blob/main/skils/WebStorm.png">
+</a>
 <a href="https://github.com/feden2906/icons/blob/main/skils/JavaScript.png">
   <img height="25" title="JavaScript" src="https://github.com/feden2906/icons/blob/main/skils/JavaScript.png">
 </a>
-
 <a href="https://github.com/feden2906/icons/blob/main/skils/TypeScript.png">
   <img height="25" title="TypeScript" src="https://github.com/feden2906/icons/blob/main/skils/TypeScript.png">
 </a>
-
 <a href="https://github.com/feden2906/icons/blob/main/skils/Angular.png">
   <img height="25" title="Angular" src="https://github.com/feden2906/icons/blob/main/skils/Angular.png">
 </a>
-
 <a href="https://github.com/feden2906/icons/blob/main/skils/React.png">
   <img height="25" title="React" src="https://github.com/feden2906/icons/blob/main/skils/React.png">
 </a>
-
 <a href="https://github.com/feden2906/icons/blob/main/skils/Redux.png">
   <img height="25" title="Redux" src="https://github.com/feden2906/icons/blob/main/skils/Redux.png">
 </a>
-
 <a href="https://github.com/feden2906/icons/blob/main/skils/NodeJS.png">
   <img height="25" title="NodeJs" src="https://github.com/feden2906/icons/blob/main/skils/NodeJS.png">
 </a>
-
 <a href="https://github.com/feden2906/icons/blob/main/skils/MongoDB.png">
   <img height="25" title="MongoDB" src="https://github.com/feden2906/icons/blob/main/skils/MongoDB.png">
 </a> 
-
 <a href="https://github.com/feden2906/icons/blob/main/skils/MySQL.png">
   <img height="25" title="MySQL" src="https://github.com/feden2906/icons/blob/main/skils/MySQL.png">
 </a>
