@@ -69,6 +69,8 @@
 <a href="https://github.com/feden2906/icons/blob/main/skils/npm.png">
   <img height="25" title="npm" src="https://github.com/feden2906/icons/blob/main/skils/npm.png">
 </a>
+
+<br />
 <br />
 
 **Activity:**
