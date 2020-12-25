@@ -69,9 +69,9 @@
 <a href="https://github.com/feden2906/icons/blob/main/skils/npm.png">
   <img height="25" title="npm" src="https://github.com/feden2906/icons/blob/main/skils/npm.png">
 </a>
-
 <br />
 
+**Activity:**
 <div> <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=feden2906&show_icons=true" alt="myGitStats" > </div>
 
 
