@@ -60,11 +60,11 @@
 <a href="https://github.com/feden2906/icons/blob/main/skils/MongoDB.png">
   <img height="25" title="MongoDB" src="https://github.com/feden2906/icons/blob/main/skils/MongoDB.png">
 </a>
-<a href="https://github.com/feden2906/icons/blob/main/skils/docker.png">
-  <img height="25" title="Docker" src="https://github.com/feden2906/icons/blob/main/skils/docker.png">
-</a>
 <a href="https://github.com/feden2906/icons/blob/main/skils/MySQL.png">
   <img height="25" title="MySQL" src="https://github.com/feden2906/icons/blob/main/skils/MySQL.png">
+</a>
+<a href="https://github.com/feden2906/icons/blob/main/skils/docker.png">
+  <img height="25" title="Docker" src="https://github.com/feden2906/icons/blob/main/skils/docker.png">
 </a>
 <a href="https://github.com/feden2906/icons/blob/main/skils/yarn.png">
   <img height="25" title="yarn" src="https://github.com/feden2906/icons/blob/main/skils/yarn.png">
