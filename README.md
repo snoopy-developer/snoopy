@@ -83,7 +83,3 @@ Markdown     14 mins         ▒░░░░░░░░░░░░░░░░
 JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 <!--END_SECTION:waka-->
-
-<div> 
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=feden2906&show_icons=true" alt="myGitStats" > 
-</div>
