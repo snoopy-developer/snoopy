@@ -79,10 +79,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       16 hrs 28 mins  █████████████████▓░░░░░░░   70.88 % 
-TypeScript   3 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-JavaScript   1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-HTML         1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Git Config   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Python       12 hrs 38 mins  ██████████████▒░░░░░░░░░░   57.92 % 
+JavaScript   3 hrs 54 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.88 % 
+TypeScript   3 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+HTML         1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+JSON         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 <!--END_SECTION:waka-->
