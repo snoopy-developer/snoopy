@@ -86,4 +86,3 @@ CSS          50 mins         █░░░░░░░░░░░░░░░░
 TypeScript   48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 ```
 <!--END_SECTION:waka-->
-
