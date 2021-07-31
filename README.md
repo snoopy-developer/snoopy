@@ -86,4 +86,3 @@ CSS          1 hr 6 mins     █▒░░░░░░░░░░░░░░░
 Git Config   46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 ```
 <!--END_SECTION:waka-->
-
