@@ -86,4 +86,3 @@ HTML         1 hr 50 mins    █▒░░░░░░░░░░░░░░░
 Git Config   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 <!--END_SECTION:waka-->
-
