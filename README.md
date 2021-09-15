@@ -86,4 +86,3 @@ Python       48 mins         ▓░░░░░░░░░░░░░░░░
 TypeScript   44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 <!--END_SECTION:waka-->
-
