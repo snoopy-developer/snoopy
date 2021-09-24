@@ -86,4 +86,3 @@ HTML         6 mins          ▒░░░░░░░░░░░░░░░░
 TypeScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 <!--END_SECTION:waka-->
-
