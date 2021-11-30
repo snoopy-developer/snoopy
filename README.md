@@ -79,11 +79,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript       11 hrs 7 mins   ██████████████▒░░░░░░░░░░   57.20 % 
-TypeScript       3 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.90 % 
-JSON             2 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-GitIgnore file   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-YAML             27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+JavaScript       10 hrs 14 mins  ███████████▓░░░░░░░░░░░░░   46.56 % 
+TypeScript       6 hrs 21 mins   ███████▒░░░░░░░░░░░░░░░░░   28.94 % 
+JSON             3 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+GitIgnore file   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+YAML             27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 <!--END_SECTION:waka-->
 
