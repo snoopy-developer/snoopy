@@ -79,9 +79,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   21 mins         ████████████████▓░░░░░░░░   67.32 % 
-JSON         7 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.01 % 
-TypeScript   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
