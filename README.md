@@ -40,6 +40,9 @@
 <a href="https://github.com/feden2906/icons/blob/main/skils/NodeJS.png">
   <img height="25" title="NodeJs" src="https://github.com/feden2906/icons/blob/main/skils/NodeJS.png">
 </a>
+<a href="https://github.com/feden2906/icons/blob/main/skils/NodeJS.png">
+  <img height="25" title="NestJs" src="https://github.com/feden2906/icons/blob/main/skils/nestjs.png">
+</a>
 <a href="https://github.com/feden2906/icons/blob/main/skils/MongoDB.png">
   <img height="25" title="MongoDB" src="https://github.com/feden2906/icons/blob/main/skils/MongoDB.png">
 </a>
