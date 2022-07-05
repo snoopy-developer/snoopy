@@ -75,11 +75,11 @@
 <br />
 
 **Activity for the last week :**
-<!---
+
 <div> 
-  <img align="right" width="370px" src="https://github-readme-stats.vercel.app/api?username=feden2906&show_icons=true" alt="myGitStats" > 
+  <img align="right" width="320px" src="https://github-readme-stats.vercel.app/api?username=feden2906&show_icons=true" alt="myGitStats" > 
 </div>
--->
+
 
 <!--START_SECTION:waka-->
 
