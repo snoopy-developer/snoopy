@@ -84,12 +84,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript        15 hrs 27 mins  ██████████████▒░░░░░░░░░░   57.01 %
-JSON              4 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
-Protocol Buffer   2 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-JavaScript        1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-YAML              53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Bash              37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+TypeScript        14 hrs 45 mins  █████████████████░░░░░░░░   67.42 %
+JSON              3 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
+JavaScript        1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+Protocol Buffer   1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Bash              29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+tsconfig          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
