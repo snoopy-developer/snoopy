@@ -13,3 +13,4 @@
 <a href="tsimkoruslan@gmail.com">
   <img align="left" alt="Mail" width="24px" src="https://github.com/feden2906/icons/blob/main/gmail.png" />
 </a>
+（っ＾▿＾）
