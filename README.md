@@ -8,7 +8,7 @@
 <a href="">
   <img align="left" alt="Instagram" width="24px" src="https://github.com/feden2906/icons/blob/main/instagram.png" />
 </a>
-</a> -->
+</a>
 <a href="">
   <img align="left" alt="Telegram" width="24px" src="https://github.com/feden2906/icons/blob/main/telegram.png" />
 </a>
