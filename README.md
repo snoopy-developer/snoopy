@@ -5,7 +5,7 @@
   <img align="left" alt="Linkdin" width="24px" src="https://github.com/feden2906/icons/blob/main/linkedin.png" />
 </a>
 <a href="">
-<!-- <a href="https://www.instagram.com/tsimkoruslan/">
+<a href="">
   <img align="left" alt="Instagram" width="24px" src="https://github.com/feden2906/icons/blob/main/instagram.png" />
 </a>
 </a> -->
